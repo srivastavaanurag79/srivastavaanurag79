@@ -2,7 +2,7 @@
 
 I'm Anurag, a.k.a. Vivacious Vendace 👨🏽‍💻
 
-- 👨🏽‍💻 I’m currently working at [Blump Tech](https://www.blump.tech/), as a Front End Developer.
+- 👨🏽‍💻 I’m currently working at [Blump Tech](https://www.blump.tech/), as a Lead Engineer: Frontend.
 - 💬 Ask me about opportunities to work with me.
 - 🌱 I’m currently learning React Native.
 - 📫 How to reach me:
