@@ -7,7 +7,6 @@ I'm Anurag, a.k.a. Vivacious Vendace 👨🏽‍💻
 - 🌱 I’m currently learning React Native.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/srivastavaanurag79/)
-  - [Instagram](https://www.instagram.com/srivastavaanurag79/)
   - [Grepper](https://www.codegrepper.com/profile/anurag-srivastava)
   - [Medium](https://srivastavaanurag79.medium.com/)
   - [dev.to](https://dev.to/srivastavaanurag79)
