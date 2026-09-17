@@ -112,6 +112,9 @@ Enterprise-grade Loan Origination & Servicing platform featuring
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=google-chrome)](https://srivastavaanurag79.github.io)
 
+[![GitLab](https://img.shields.io/badge/GitLab-srivastavaanurag79-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/srivastavaanurag79)
+
+
 ---
 
 ## 💬 Ask Me About
