@@ -92,16 +92,6 @@ Enterprise-grade Loan Origination & Servicing platform featuring
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=srivastavaanurag79&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Srivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srivastavaanurag79)
